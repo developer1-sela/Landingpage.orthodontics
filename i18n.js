@@ -95,6 +95,8 @@ window.I18N = {
   clinicAddress: { ar: 'مدينة الشارقة الصحية', en: 'Sharjah Healthcare City' },
   whatsappBtn: { ar: 'واتساب', en: 'WhatsApp' },
   callBtn: { ar: 'اتصال', en: 'Call' },
+  instagramHandle: { ar: '@dmc_shj', en: '@dmc_shj' },
+  instagramCaption: { ar: 'تابعونا على انستقرام', en: 'Follow us on Instagram' },
 
   footerDesc: {
     ar: 'تقويم أسنان معدني أو شفاف — خطة علاج مخصصة لحالتك.',
