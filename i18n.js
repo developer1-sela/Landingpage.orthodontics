@@ -104,5 +104,6 @@ window.I18N = {
   footerContactTitle: { ar: 'تواصل', en: 'Contact' },
 
   whatsappAria: { ar: 'تواصل معنا عبر واتساب', en: 'Contact us on WhatsApp' },
+  waLabelText: { ar: 'تحدث معنا', en: 'Chat with us' },
   scrollDownAria: { ar: 'انزل تحت', en: 'Scroll down' }
 };
